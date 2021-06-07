@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "coenraads.bracket-pair-colorizer",
+        "jchannon.csharpextensions",
+        "pkief.material-icon-theme",
+        "jmrog.vscode-nuget-package-manager",
+        "christian-kohler.path-intellisense"
+    ]
+}
